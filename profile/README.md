@@ -1,4 +1,4 @@
-# HAIN World
+<img width="1188" height="1264" alt="image" src="https://github.com/user-attachments/assets/389548a6-0368-430b-88ac-1d34cbac80c8" /># HAIN World
 
 **HAIN World** is the public-facing identity of the **Hybrid AI Native** framework.
 
@@ -22,22 +22,16 @@ HAIN is a framework for understanding how modern intelligent systems are evolvin
 - **hain-glossary** — terminology layer
 - **hainize** — practical-entry direction
 
-## Entry points
-
-- [hainworld.com](https://hainworld.com)
-- [hain.world](https://hain.world)
-- [hainoa.org](https://hainoa.org)
-- [linkedin.com/company/hainworld](https://linkedin.com/company/hainworld)
-
 ## Quick start
 
 If you are new to HAIN, start here:
 
-- Main site: [hainworld.com](https://hainworld.com)
-- Architecture layer: [hainoa.org](https://hainoa.org)
-- Whitepaper: [hain-whitepaper](https://github.com/hainworldhq/hain-whitepaper)
-- FAQ: [11-faq.md](https://github.com/hainworldhq/hain-whitepaper/blob/main/11-faq.md)
-- Glossary: [hain-glossary](https://github.com/hainworldhq/hain-glossary)
+- **Main site** — [hainworld.com](https://hainworld.com)
+- **Architecture layer** — [hainoa.org](https://hainoa.org)
+- **Whitepaper** — [hain-whitepaper](https://github.com/hainworldhq/hain-whitepaper)
+- **FAQ** — [11-faq.md](https://github.com/hainworldhq/hain-whitepaper/blob/main/11-faq.md)
+- **Glossary** — [hain-glossary](https://github.com/hainworldhq/hain-glossary)
+- **LinkedIn** — [linkedin.com/company/hainworld](https://linkedin.com/company/hainworld)
 
 ## Status
 

@@ -1,4 +1,4 @@
-<img width="1188" height="1264" alt="image" src="https://github.com/user-attachments/assets/389548a6-0368-430b-88ac-1d34cbac80c8" /># HAIN World
+## HAIN World
 
 **HAIN World** is the public-facing identity of the **Hybrid AI Native** framework.
 

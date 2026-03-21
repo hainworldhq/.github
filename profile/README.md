@@ -29,6 +29,16 @@ HAIN is a framework for understanding how modern intelligent systems are evolvin
 - [hainoa.org](https://hainoa.org)
 - [linkedin.com/company/hainworld](https://linkedin.com/company/hainworld)
 
+## Quick start
+
+If you are new to HAIN, start here:
+
+- Main site: [hainworld.com](https://hainworld.com)
+- Architecture layer: [hainoa.org](https://hainoa.org)
+- Whitepaper: [hain-whitepaper](https://github.com/hainworldhq/hain-whitepaper)
+- FAQ: [11-faq.md](https://github.com/hainworldhq/hain-whitepaper/blob/main/11-faq.md)
+- Glossary: [hain-glossary](https://github.com/hainworldhq/hain-glossary)
+
 ## Status
 
 **Public Foundation v0.1 — Complete**  

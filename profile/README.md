@@ -1,128 +1,48 @@
-# HAIN Glossary Terms
+# HAIN World
 
-Version: v0.1  
-Status: Active term index
+**HAIN World** is the public-facing identity of the **Hybrid AI Native** framework.
 
-This directory contains the working term set for the HAIN framework.
-
-These entries define the core vocabulary used across:
-
-- HAIN World
-- HAINOA
-- HAINIZE
-- HAIN Whitepaper
-- public-facing websites and repository materials
-
-The purpose of this directory is to keep the framework’s language stable, structured, and reusable.
+HAIN is a framework for understanding how modern intelligent systems are evolving across **cloud coordination**, **edge execution**, and **agentic workflows**. It is designed to make this emerging landscape easier to understand through clearer public structure, cleaner architectural language, and structured narrative assets.
 
 ---
 
-## Core framework terms
+## System structure
 
-- [`hain.md`](./hain.md)
-- [`hybrid-ai-native.md`](./hybrid-ai-native.md)
-- [`hain-world.md`](./hain-world.md)
-- [`hainoa.md`](./hainoa.md)
-- [`hainize.md`](./hainize.md)
+The current HAIN system is organized around three core layers:
 
----
+- **HAIN World** — public entry point
+- **HAINOA** — open architecture layer
+- **HAINIZE** — toolkit and practical-entry direction
 
-## System landscape terms
+In simple terms:
 
-- [`cloud.md`](./cloud.md)
-- [`edge.md`](./edge.md)
-- [`agentic-systems.md`](./agentic-systems.md)
-- [`orchestration.md`](./orchestration.md)
-- [`locality.md`](./locality.md)
-- [`execution-environment.md`](./execution-environment.md)
-- [`agentic-workflow.md`](./agentic-workflow.md)
-- [`system-landscape.md`](./system-landscape.md)
+- **HAIN World introduces**
+- **HAINOA explains**
+- **HAINIZE enables practical entry**
 
 ---
 
-## Framework interpretation terms
+## Core repositories
 
-- [`public-facing-identity.md`](./public-facing-identity.md)
-- [`open-architecture-layer.md`](./open-architecture-layer.md)
-- [`toolkit-entry.md`](./toolkit-entry.md)
-- [`structured-narrative-assets.md`](./structured-narrative-assets.md)
-- [`architecture-core.md`](./architecture-core.md)
-- [`umbrella-identity.md`](./umbrella-identity.md)
-- [`principles.md`](./principles.md)
-- [`conceptual-structure.md`](./conceptual-structure.md)
-- [`public-entry-point.md`](./public-entry-point.md)
-- [`toolkit-direction.md`](./toolkit-direction.md)
-- [`structural-clarity.md`](./structural-clarity.md)
-- [`framework-narrative.md`](./framework-narrative.md)
+- **hainworld-site** — public website for HAIN World
+- **hainoa-site** — architecture and theory site for HAINOA
+- **hain-whitepaper** — structured narrative base for the HAIN framework
+- **hain-glossary** — terminology layer and working vocabulary
+- **hainize** — future toolkit and practical-entry direction
 
 ---
 
-## Suggested reading order
+## Quick start
 
-If you are new to the HAIN system, start here:
+If you are new to HAIN, start here:
 
-1. [`hain.md`](./hain.md)
-2. [`hybrid-ai-native.md`](./hybrid-ai-native.md)
-3. [`hain-world.md`](./hain-world.md)
-4. [`hainoa.md`](./hainoa.md)
-5. [`hainize.md`](./hainize.md)
-
-Then continue with the system landscape terms:
-
-6. [`cloud.md`](./cloud.md)
-7. [`edge.md`](./edge.md)
-8. [`agentic-systems.md`](./agentic-systems.md)
-9. [`orchestration.md`](./orchestration.md)
-10. [`locality.md`](./locality.md)
-11. [`execution-environment.md`](./execution-environment.md)
-12. [`agentic-workflow.md`](./agentic-workflow.md)
-13. [`system-landscape.md`](./system-landscape.md)
-
-Then move into the interpretation layer:
-
-14. [`public-facing-identity.md`](./public-facing-identity.md)
-15. [`open-architecture-layer.md`](./open-architecture-layer.md)
-16. [`architecture-core.md`](./architecture-core.md)
-17. [`umbrella-identity.md`](./umbrella-identity.md)
-18. [`principles.md`](./principles.md)
-19. [`conceptual-structure.md`](./conceptual-structure.md)
-20. [`public-entry-point.md`](./public-entry-point.md)
-21. [`toolkit-entry.md`](./toolkit-entry.md)
-22. [`toolkit-direction.md`](./toolkit-direction.md)
-23. [`structural-clarity.md`](./structural-clarity.md)
-24. [`framework-narrative.md`](./framework-narrative.md)
-25. [`structured-narrative-assets.md`](./structured-narrative-assets.md)
-
----
-
-## Relationship to the whitepaper
-
-These term files are meant to be used alongside the whitepaper.
-
-- The whitepaper explains the framework in sequence.
-- The glossary stabilizes the language used across that sequence.
-- The FAQ compresses that language into faster public-facing explanations.
-
-If you need the broader system order first, start with:
-
-- [`hain-whitepaper/00-master-navigation.md`](https://github.com/hainworldhq/hain-whitepaper/blob/main/00-master-navigation.md)
-
-If you need the full narrative path, continue with:
-
-- [`hain-whitepaper`](https://github.com/hainworldhq/hain-whitepaper)
-
----
-
-## Editorial principle
-
-Each term in this directory should remain:
-
-- concise
-- structurally clear
-- consistent with the HAIN framework
-- reusable across repositories and public-facing materials
-
-This directory should grow carefully. New terms should only be added when they improve clarity.
+- **Main site** — [hainworld.com](https://hainworld.com)
+- **Architecture layer** — [hainoa.org](https://hainoa.org)
+- **Whitepaper** — [hain-whitepaper](https://github.com/hainworldhq/hain-whitepaper)
+- **Master navigation** — [00-master-navigation.md](https://github.com/hainworldhq/hain-whitepaper/blob/main/00-master-navigation.md)
+- **FAQ** — [11-faq.md](https://github.com/hainworldhq/hain-whitepaper/blob/main/11-faq.md)
+- **Glossary** — [hain-glossary](https://github.com/hainworldhq/hain-glossary)
+- **LinkedIn** — [linkedin.com/company/hainworld](https://linkedin.com/company/hainworld)
 
 ---
 
@@ -132,15 +52,17 @@ Current internal stage:
 
 **HAIN World v0.1 Public Foundation — Complete**
 
-Current content relationship:
+Current content stage:
 
 **Whitepaper v0.1 Core Draft — Active**  
 **Glossary v0.1 Terminology Layer — Active**
+
+The framework is currently expressed through public websites, whitepaper chapters, glossary terms, FAQ support, and a growing documentation structure across this GitHub organization.
 
 ---
 
 ## Working summary
 
-This directory contains the terminology layer of HAIN.
+HAIN is a Hybrid AI Native framework system.
 
-Its job is not to maximize volume, but to maintain a clean conceptual system that supports public explanation, architectural interpretation, and future framework expansion.
+It is being built as a structured public framework for explaining how cloud, edge, and agentic systems fit together — not as a finished product platform, but as a coherent system of identity, architecture, terminology, narrative, and practical direction.
